@@ -26,8 +26,8 @@
     "format": "prettier --write 'src/**/*.js' 'examples/**/*.js' 'src/**/*.css' '**/*.json'"
   },
   "dependencies": {
-    "react": "15.6.2",
-    "react-cookie": "2.1.4"
+    "react": ">=16.3.0",
+    "react-cookie": ">=3.0.0"
   },
   "devDependencies": {
     "babel-eslint": "10.0.1",
